@@ -63,3 +63,23 @@ li{
     text-decoration: line-through;
     opacity: 0.3;
 }
+.success-message {
+    color: green;
+    margin-bottom: 10px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .delete-message {
+    color: orange;
+    margin-bottom: 10px;
+  }
+  .completed {
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+
+  
